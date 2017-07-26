@@ -1,0 +1,39 @@
+.Card-box {
+  border-radius: 15px;
+  -moz-box-shadow: 0 0 15px 3px #C8C8C8;
+  -webkit-box-shadow: 0 0 15px 3px #C8C8C8;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -170px;
+  margin-left: -100px;
+  width: 200px;
+  height: 230px;
+}
+
+.Card-hex-label {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  background-color: white;
+  width: 200px;
+  height: 40px;
+  display: table-cell;
+  vertical-align: middle;
+  padding: 10px;
+}
+
+.Card-button {
+  border-radius: 8px;
+  border: 1px solid #000059;
+  height: 40px;
+  width: 120px;
+  outline: none;
+  background-color: white;
+  color: #000059;
+  cursor: pointer;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: 80px;
+  margin-left: -60px;
+}
